@@ -1,0 +1,7 @@
+{
+  "name": "Customer Support Resolution Assistant",
+  "description": "Broadband and mobile support desk resolution assistant combining customer account records, live conversation context, and grounded knowledge base articles to automate routine resolutions, ask for missing details, or handover complex cases with zero context loss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
