@@ -1,0 +1,15 @@
+node_modules/
+build/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+dist/server.cjs
+dist/server.cjs.map
